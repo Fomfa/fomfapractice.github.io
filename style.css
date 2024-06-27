@@ -28,7 +28,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #778da9;
+    background: #373f47;
     padding: 10px;
 
 }
@@ -240,7 +240,7 @@ header a:hover {
 }
 
 footer {
-    background: linear-gradient(to top, #000, rgb(19, 19, 68));
+    background: linear-gradient(to top, #000, rgb(31, 31, 61));
     padding: 30px;
     color: #fff;
     font-size: 20px;
